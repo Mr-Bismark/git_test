@@ -1,2 +1,2 @@
-Hello everyone!
-This is Bismark and I'm still on my git tutorials.
+Hello everyone, my name is Bismark
+and this is a rebound after months of missing the odin project
