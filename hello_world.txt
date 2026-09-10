@@ -1,2 +1,2 @@
-Hello everyone, my name is Bismark
-and this is a rebound after months of missing the odin project
+Hello there, some changes are about to be made here
+This is another line
