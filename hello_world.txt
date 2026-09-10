@@ -1,2 +1,3 @@
 Hello there, some changes are about to be made here
-This is another line
+This is another line.
+Here is another line of change I'm making
